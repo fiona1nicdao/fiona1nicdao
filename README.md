@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fiona Nicdao
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on many projects
+- 👀 I’m interested in decoding the matrix before the machine takover.
+- 🌱 I’m currently learning Node.js but in love with javascript!
+- 💞️ I’m looking to collaborate on exciting new projects to help the world enter peaceful times. 
 - 📫 How to reach me via email, fiona.nicdao@northwestern.edu
 
 <!---
