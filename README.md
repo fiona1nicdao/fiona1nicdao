@@ -2,7 +2,7 @@
 - 👀 I’m interested in decoding the matrix before the machine takover.
 - 🌱 I’m currently learning React.js!
 - 💞️ I’m looking to collaborate on exciting new projects to help the world enter peaceful times. 
-- 📫 How to reach me via email, fiona.nicdao@northwestern.edu
+- 📫 How to reach me via email, fionanicdao8374@gmail.com
 - [link to my Portfolio](https://fiona1nicdao.github.io/portfolio-react/)
 <!---
 fiona1nicdao/fiona1nicdao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
