@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fiona Nicdao, I'm a web developer 
 - 👀 I’m interested in decoding the matrix before the machine takover.
-- 🌱 I’m currently learning React.js!
+- 🌱 I’m currently learning AWS!
 - 💞️ I’m looking to collaborate on exciting new projects to help the world enter peaceful times. 
 - 📫 How to reach me via email, fionanicdao8374@gmail.com
 - [link to my Portfolio](https://fiona1nicdao.github.io/portfolio-react/)
