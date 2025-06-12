@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fiona Nicdao, I'm a Data Scientist
+- 👋 Hi, I’m Fiona Nicdao a Data Scientist
 - 👀 I’m interested in decoding the matrix before the machine takover.
 - 🌱 I’m currently improving my skills in Apache Superset via Docker / Tableau
 - 🌱 I'm currently learning the fundations for Cybersecurity 
